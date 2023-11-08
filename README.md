@@ -37,5 +37,5 @@ https://aws.amazon.com/what-is/sentiment-analysis
 
 <p align="center">
   <a href="https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/gil612/2b13c36e6f87b057cfe535ba4235701c/raw/aaf6650066351a75319a47a6ce389a4591113d82/gist.json"/>
-  <img src="https://github.com/gil612/NLP/blob/37f454239f9bb7e2808c098cc14df35f3db78a2d/Screenshot%202023-10-01%20211434.png" width="1280"/>
+  <img src="https://i.imgur.com/oKuHMba.png" width="1280"/>
 </p>
